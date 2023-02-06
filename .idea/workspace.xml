@@ -4,50 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d397c01-567b-4eff-b3a3-6fda1bbf87a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ex27.java" afterDir="false" />
+    <list default="true" id="2d397c01-567b-4eff-b3a3-6fda1bbf87a5" name="Changes" comment="23/02/06 to operator">
+      <change afterPath="$PROJECT_DIR$/src/ch03/ex28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/ex29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/ex30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/ex31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/ex32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch02/ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/ex15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/ex10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,17 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ex27">
-    <configuration name="ex23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.ex23" />
+}</component>
+  <component name="RunManager" selected="Application.ex32">
+    <configuration name="ex28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.ex28" />
       <module name="java_standard" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.ex24" />
+    <configuration name="ex29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.ex29" />
       <module name="java_standard" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.ex25" />
+    <configuration name="ex30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.ex30" />
       <module name="java_standard" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.ex26" />
+    <configuration name="ex31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.ex31" />
       <module name="java_standard" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.ex27" />
+    <configuration name="ex32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.ex32" />
       <module name="java_standard" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex27" />
-        <item itemvalue="Application.ex26" />
-        <item itemvalue="Application.ex25" />
-        <item itemvalue="Application.ex24" />
-        <item itemvalue="Application.ex23" />
+        <item itemvalue="Application.ex32" />
+        <item itemvalue="Application.ex31" />
+        <item itemvalue="Application.ex30" />
+        <item itemvalue="Application.ex29" />
+        <item itemvalue="Application.ex28" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +134,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674018696358</updated>
     </task>
+    <task id="LOCAL-00001" summary="23/02/06 to operator">
+      <created>1675646414052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675646414052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23/02/06 to operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="23/02/06 to operator" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
