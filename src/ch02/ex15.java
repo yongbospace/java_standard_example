@@ -1,6 +1,6 @@
 package ch02;
 
-public class e15 {
+public class ex15 {
     public static void main(String[] args) {
         int i = 91234567;
         float f = (float) i;

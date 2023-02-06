@@ -1,6 +1,6 @@
-package ch2;
+package ch02;
 
-public class VarEx2 {
+public class ex02 {
     public static void main(String[] args) {
         int x = 10, y = 20;
         int tmp = 0;
